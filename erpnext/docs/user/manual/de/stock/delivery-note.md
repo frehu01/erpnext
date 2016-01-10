@@ -1,7 +1,7 @@
 # Lieferschein
 <span class="text-muted contributed-by">Beigetragen von CWT Connector & Wire Technology GmbH</span>
 
-Ein Lieferschein wird dann erstellt, wenn ein Versand vom Lager der Firma statt findet.
+Ein Lieferschein wird dann erstellt, wenn ein Versand vom Lager der Firma stattfindet.
 
 Normalerweise wird eine Kopie des Lieferscheins der Sendung beigelegt. Der Lieferschein beinhaltet die Auflistung der Artikel, die versendet werden, und aktualisiert den Lagerbestand.
 
